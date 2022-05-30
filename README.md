@@ -1,1 +1,1 @@
-my go repository
+README.md
